@@ -8,3 +8,5 @@ Value Objects explained
 
 Value Objects do not have any idendity.
 
+We can use this Value Objects for stateless beans.
+
